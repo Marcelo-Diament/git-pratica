@@ -4,7 +4,7 @@
  function ehAdministrador(usuario) {
   if(usuario.administrador === true) {
      console.log('O usuário é administrador')
-  } else if (usuarios.administrador === false) {
+  } else if (usuario.administrador === false) {
      console.log('O usuário é comum')
   }
 }
