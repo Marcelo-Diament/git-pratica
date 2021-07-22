@@ -8,4 +8,4 @@
      console.log('O usuário é comum')
   }
 }
-ehAdministrador('Administrador')
+ehAdministrador({administrador: true})
