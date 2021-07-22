@@ -1,2 +1,3 @@
 # git-pratica
-Repositório para entendermos o git, gitFlow e afins.
+
+Um repositório para entendermos o git, gitFlow e afins.
